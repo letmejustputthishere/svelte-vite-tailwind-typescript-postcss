@@ -1,6 +1,13 @@
-# Svelte + TS + Vite
+# Svelte + TS + Vite + Tailwind + PostCSS
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
+
+To create a new project based on this template using degit:
+
+```bash
+npx degit letmejustputthishere/svelte-vite-tailwind-typescript-postcss
+cd svelte-app
+```
 
 ## Recommended IDE Setup
 
