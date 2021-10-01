@@ -5,7 +5,7 @@ This template should help get you started developing with Svelte and TypeScript 
 To create a new project based on this template using degit:
 
 ```bash
-npx degit letmejustputthishere/svelte-vite-tailwind-typescript-postcss
+npx degit letmejustputthishere/svelte-vite-tailwind-typescript-postcss svelte-app
 cd svelte-app
 ```
 
