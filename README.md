@@ -3,7 +3,7 @@
 ## Prerequisites
  - node `16.10.0` (best to use [nvm](https://github.com/nvm-sh/nvm) to manage different node versions)
  - npm `7.24.1` (you can use `nvm install --latest-npm`)
- - 
+ 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
 To create a new project based on this template using degit:
